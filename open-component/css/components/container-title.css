@@ -1,0 +1,20 @@
+/* container title */
+
+.container-title {
+  margin: 0 2.3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+
+}
+
+.container-title h3 {
+  margin: 0;
+}
+
+.title {
+  color: rgb(143, 132, 217);
+}
+
+.title-text {
+  font-weight: normal;
+}

@@ -1,0 +1,33 @@
+/* container data */
+
+.container-data {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+
+}
+
+.data {
+  background-color: rgb(240, 240, 240);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 11rem;
+  border-radius: 12px;
+}
+
+.data h1 {
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 16px;
+}
+
+.data h4 {
+  text-align: center;
+  margin-top: 0;
+  color: gray;
+  font-weight: normal;
+}
